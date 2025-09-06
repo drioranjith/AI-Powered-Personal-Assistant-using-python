@@ -70,7 +70,7 @@ AI_Assistant/
 ## Run the Project
  python main.py
 
-## specific command to Get Reply:(thw below commands are example in this type u can ask anything to assistent)
+## specific command to Get Reply:(the below commands are example in this type u can ask anything to assistent)
 1. What’s the weather of (any state and country)
 
 2. Give me the latest news.
@@ -97,6 +97,7 @@ AI_Assistant/
     Note:
 
         The ai assistant is only respond with advance but that i made is simple AI-Assistant for simple tasks 
+
 
 
 

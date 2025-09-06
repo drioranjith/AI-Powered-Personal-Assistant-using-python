@@ -1,0 +1,7 @@
+requests
+speechrecognition
+gtts
+playsound
+python-dotenv
+nltk
+spacy

@@ -96,7 +96,8 @@ AI_Assistant/
 
     Note:
 
-        The ai assistant is only respond with advance but that i made is simple AI-Assistant for simple tasks 
+        This is simple AI-Assistant for Paticular tasks 
+
 
 
 
